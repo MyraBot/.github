@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://myra.bot/support)
+
 # ✨ Myra
 
 Myra is a multi purpose Discord bot. My goal is it to make a free bot, aimed to replace all other bots.
