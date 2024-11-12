@@ -8,8 +8,8 @@ The bot got will be discontinued start around march 2025. It started as a closed
 
 ## Working code structure
 To run a working instance of the bot, you need to run 2 repositories:
-* Bot
-* Website (optional)
+* [Bot](https://github.com/MyraBot/Myra) ✨
+* [Website (optional)](https://github.com/MyraBot/website-v3/tree/redesign) 🌐
 
 ## Thanks to
 ### Translators
@@ -18,7 +18,7 @@ Vince │ omashune │ Timo │ xerition │ Ashx │ Astri │ ㅅㄹ │ RichM
 ### Special thanks to
 * ㅅㄹ - Teaching me kotlin
 * pringles
-* 0xbatuhan16 - QA Engineering
+* [0xbatuhan16](https://twitter.com/0xbatuhan16) - QA Engineering
 
 ## 📺 Bot listing
 * [top.gg](https://top.gg/bot/718444709445632122)
