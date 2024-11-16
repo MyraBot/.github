@@ -12,6 +12,9 @@ To run a working instance of the bot, you need to run 2 repositories:
 * [Website (optional)](https://github.com/MyraBot/website-v3/tree/redesign) 🌐
 
 ## Thanks to
+* ExZiByte
+* Robyn 
+
 ### Translators
 Vince │ omashune │ Timo │ xerition │ Ashx │ Astri │ ㅅㄹ │ RichMen │ Uzu │ doggocz │ 0xbatuhan16 │ Edvinartoosh │ DEEM │ hys
 
