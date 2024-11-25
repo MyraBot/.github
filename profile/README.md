@@ -6,11 +6,15 @@ This project started as an attempt to replace Mee6. It now features lots of usef
 ## Discontinued
 The bot got will be discontinued start around march 2025. It started as a closed source project. This will change. The code which is not used in production will get published.
 
-## Working code structure
+## Run it yourself!
 To run a working instance of the bot, you need to run 2 repositories:
 * [Bot](https://github.com/MyraBot/Myra) ✨
-* [Website (optional)](https://github.com/MyraBot/website-v3/tree/redesign) 🌐
+* [Dashboard](https://github.com/MyraBot/website-v3/tree/redesign) 🌐
 
+I didn't compile the dependencies. So you will need to compile the following repositories yourself:
+- [API Wrapper](https://github.com/MyraBot/diskord) 🔧
+
+ 
 ## Thanks to
 * ExZiByte
 * Robyn 
