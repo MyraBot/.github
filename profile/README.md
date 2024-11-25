@@ -13,19 +13,29 @@ To run a working instance of the bot, you need to run 2 repositories:
 
 I didn't compile the dependencies. So you will need to compile the following repositories yourself:
 - [API Wrapper](https://github.com/MyraBot/diskord) 🔧
-
  
 ## Thanks to
-* ExZiByte
-* Robyn 
+- ㅅㄹ - Teaching me kotlin
+- pringles
+- [0xbatuhan16](https://twitter.com/0xbatuhan16) - QA Engineering
+- ExZiByte
+- Robyn
 
 ### Translators
-Vince │ omashune │ Timo │ xerition │ Ashx │ Astri │ ㅅㄹ │ RichMen │ Uzu │ doggocz │ 0xbatuhan16 │ Edvinartoosh │ DEEM │ hys
-
-### Special thanks to
-* ㅅㄹ - Teaching me kotlin
-* pringles
-* [0xbatuhan16](https://twitter.com/0xbatuhan16) - QA Engineering
+- Vince
+- omashune
+- Timo
+- xerition
+- Ashx
+- Astri
+- ㅅㄹ
+- RichMen
+- Uzu
+- doggocz
+- 0xbatuhan16
+- Edvinartoosh
+- DEEM
+- hys
 
 ## 📺 Bot listing
 * [top.gg](https://top.gg/bot/718444709445632122)
